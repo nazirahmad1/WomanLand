@@ -23,6 +23,23 @@ import nike38833 from "../assets/shoes/nike38833.png";
 import womenshoes from "../assets/shoes/womenshoes.png";
 
 import handbg from "../assets/bag/ladiesHandBag.png";
+import beau1 from "../assets/beau/beau1.png";
+import beau2 from "../assets/beau/beau2.png";
+import beau3 from "../assets/beau/beau3.png";
+import beau4 from "../assets/beau/beau4.png";
+import beau5 from "../assets/beau/beau5.png";
+import beau6 from "../assets/beau/beau6.png";
+import beau7 from "../assets/beau/beau7.png";
+import beau8 from "../assets/beau/beau8.png";
+import beau9 from "../assets/beau/beau9.png";
+import beau10 from "../assets/beau/beau10.png";
+import beau11 from "../assets/beau/beau11.png";
+import beau12 from "../assets/beau/beau12.png";
+import beau13 from "../assets/beau/beau13.png";
+import beau14 from "../assets/beau/beau14.png";
+import beau15 from "../assets/beau/beau15.png";
+import beau16 from "../assets/beau/beau16.png";
+import beau17 from "../assets/beau/beau17.png";
 
 const bestsellers = {
   title: "Best Sellers",
@@ -526,5 +543,179 @@ const slideCon = {
     },
   ],
 };
+const beauty = {
+  items: [
+    {
+      id: "beaux01",
+      title: "Women beauty",
+      text: "lorem ipsum",
+      rating: "5+",
+      img: beau1,
+      price: "150",
+      color: "bg-slate-100 opacity-100 text-slate-900",
+      shadow: "shadow-lg shadow-slate-500",
+    },
+    {
+      id: "beaux02",
+      title: "Women beauty",
+      text: "lorem ipsum",
+      rating: "5+",
+      img: beau2,
+      price: "150",
+      color: "bg-slate-100 opacity-100 text-slate-900",
+      shadow: "shadow-lg shadow-slate-500",
+    },
+    {
+      id: "beaux03",
+      title: "Women beauty",
+      text: "lorem ipsum",
+      rating: "5+",
+      img: beau3,
+      price: "150",
+      color: "bg-slate-100 opacity-100 text-slate-900",
+      shadow: "shadow-lg shadow-slate-500",
+    },
+    {
+      id: "beaux04",
+      title: "Women beauty",
+      text: "lorem ipsum",
+      rating: "5+",
+      img: beau4,
+      price: "150",
+      color: "bg-slate-100 opacity-100 text-slate-900",
+      shadow: "shadow-lg shadow-slate-500",
+    },
+    {
+      id: "beaux05",
+      title: "Women beauty",
+      text: "lorem ipsum",
+      rating: "4+",
+      img: beau5,
+      price: "150",
+      color: "bg-slate-100 opacity-100 text-slate-900",
+      shadow: "shadow-lg shadow-slate-500",
+    },
+    {
+      id: "beaux06",
+      title: "Women beauty",
+      text: "lorem ipsum",
+      rating: "5+",
+      img: beau6,
+      price: "150",
+      color: "bg-slate-100 opacity-100 text-slate-900",
+      shadow: "shadow-lg shadow-slate-500",
+    },
+    {
+      id: "beaux07",
+      title: "Women beauty",
+      text: "lorem ipsum",
+      rating: "5+",
+      img: beau7,
+      price: "150",
+      color: "bg-slate-100 opacity-100 text-slate-900",
+      shadow: "shadow-lg shadow-slate-500",
+    },
+    {
+      id: "beaux08",
+      title: "Women beauty",
+      text: "lorem ipsum",
+      rating: "5+",
+      img: beau8,
+      price: "150",
+      color: "bg-slate-100 opacity-100 text-slate-900",
+      shadow: "shadow-lg shadow-slate-500",
+    },
+    {
+      id: "beaux09",
+      title: "Women beauty",
+      text: "lorem ipsum",
+      rating: "5+",
+      img: beau9,
+      price: "150",
+      color: "bg-slate-100 opacity-100 text-slate-900",
+      shadow: "shadow-lg shadow-slate-500",
+    },
+    {
+      id: "beaux010",
+      title: "Women beauty",
+      text: "lorem ipsum",
+      rating: "5+",
+      img: beau10,
+      price: "150",
+      color: "bg-slate-100 opacity-100 text-slate-900",
+      shadow: "shadow-lg shadow-slate-500",
+    },
+    {
+      id: "beaux011",
+      title: "Women beauty",
+      text: "lorem ipsum",
+      rating: "5+",
+      img: beau11,
+      price: "150",
+      color: "bg-slate-100 opacity-100 text-slate-900",
+      shadow: "shadow-lg shadow-slate-500",
+    },
+    {
+      id: "beaux012",
+      title: "Women beauty",
+      text: "lorem ipsum",
+      rating: "5+",
+      img: beau12,
+      price: "150",
+      color: "bg-slate-100 opacity-100 text-slate-900",
+      shadow: "shadow-lg shadow-slate-500",
+    },
+    {
+      id: "beaux013",
+      title: "Women beauty",
+      text: "lorem ipsum",
+      rating: "5+",
+      img: beau13,
+      price: "150",
+      color: "bg-slate-100 opacity-100 text-slate-900",
+      shadow: "shadow-lg shadow-slate-500",
+    },
+    {
+      id: "beaux014",
+      title: "Women beauty",
+      text: "lorem ipsum",
+      rating: "5+",
+      img: beau14,
+      price: "150",
+      color: "bg-slate-100 opacity-100 text-slate-900",
+      shadow: "shadow-lg shadow-slate-500",
+    },
+    {
+      id: "beaux015",
+      title: "Women beauty",
+      text: "lorem ipsum",
+      rating: "5+",
+      img: beau15,
+      price: "150",
+      color: "bg-slate-100 opacity-100 text-slate-900",
+      shadow: "shadow-lg shadow-slate-500",
+    },
+    {
+      id: "beaux016",
+      title: "Women beauty",
+      text: "lorem ipsum",
+      rating: "5+",
+      img: beau16,
+      price: "150",
+      color: "bg-slate-100 opacity-100 text-slate-900",
+      shadow: "shadow-lg shadow-slate-500",
+    },
+    {
+      id: "beaux017",
+      title: "Women beauty",
+      text: "lorem ipsum",
+      rating: "5+",
+      img: beau17,
+      price: "150",
+      color: "bg-slate-100 opacity-100 text-slate-900",
+      shadow: "shadow-lg shadow-slate-500",
+    },
+  ],
+};
 
-export { slideCon, allproducts, bestsellers, shoespro, bagpro };
+export { slideCon, allproducts, bestsellers, shoespro, bagpro, beauty };
